@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "雷花 (Instrumental)",
+  "base_artist": "Endorfin.",
+  "createdAt": "2025-12-01T02:30:18.298573Z",
+  "candidates": [
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "雷花 (Instrumental)",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/pl_雷花_(Instrumental)_Endorfin..txt"
+    }
+  ]
+}
